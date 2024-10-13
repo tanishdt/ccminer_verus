@@ -44,3 +44,4 @@ curl -o- -k https://raw.githubusercontent.com/tanishdt/ccminer_verus/main/instal
   ```
   ~/ccminer/start.sh
   ```
+***Inspiration taken from https://github.com/TheRetroMike/VerusCliMining***
