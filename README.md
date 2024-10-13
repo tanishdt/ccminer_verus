@@ -28,7 +28,7 @@ lscpu
 
 6. **Install Mining Script**:
 ```
-curl -o- -k https://raw.githubusercontent.com/tanishdt/ccminer_verus/main/install.sh | bash
+curl -o- -k https://raw.githubusercontent.com/tanishdt/ccminer/main/install.sh | bash
 ```
 
 8. **Configure Mining Settings**:
