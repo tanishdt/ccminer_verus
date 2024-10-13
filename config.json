@@ -1,0 +1,17 @@
+{
+    "pools": [
+        {
+            "name": "veruspool",
+            "url": "stratum+tcp://pool.verus.io:9999",
+            "timeout": 150
+        }
+    ],
+    "user": "RVoFgkT7pfPuWVtk2gDLkbhF1HWTgMBgUx.rn1",
+    "pass": "x",
+    "algo": "verus",
+    "threads": 8,
+    "cpu-priority": 5,
+    "retry-pause": 5,
+    "api-allow": "192.168.0.0/16",
+    "api-bind": "0.0.0.0:4068"
+}
